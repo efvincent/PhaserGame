@@ -1,0 +1,16 @@
+{
+  "name": "coleGamePhaser",
+  "version": "1.0.0",
+  "description": "Porting Cole's game to Phaser JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "phaser"
+  ],
+  "author": "Eric F. Vincent",
+  "license": "MIT",
+  "homepage": "https://github.com/efvincent/coleGamePhaser"
+}
