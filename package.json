@@ -19,5 +19,8 @@
   },
   "bugs": {
     "url": "https://github.com/efvincent/PhaserGame/issues"
+  },
+  "devDependencies": {
+    "gulp-traceur": "^0.14.1"
   }
 }
