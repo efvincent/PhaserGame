@@ -12,5 +12,12 @@
   ],
   "author": "Eric F. Vincent",
   "license": "MIT",
-  "homepage": "https://github.com/efvincent/coleGamePhaser"
+  "homepage": "https://github.com/efvincent/coleGamePhaser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/efvincent/PhaserGame.git"
+  },
+  "bugs": {
+    "url": "https://github.com/efvincent/PhaserGame/issues"
+  }
 }
